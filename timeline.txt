@@ -69,3 +69,4 @@
 2003-06-01T12:00:00: 🎪 Did a juggling show for [Billy Corgan's](https://en.wikipedia.org/wiki/Billy_Corgan) showcase at the Hideout
 2004-02-01T12:00:00: 🎪 Juggled on stage at the Metro for [Chris Holmes](https://en.wikipedia.org/wiki/Chris_Holmes_(DJ_and_musician))' [Electroclash](https://en.wikipedia.org/wiki/Electroclash) night
 2004-05-08T12:00:00: First time visiting Asia (Delhi, India). Second continent outside of U.S. I visited.
+2004-10-01T12:00:00: 👨‍💻 Started Working as a web programmer @ Cramer-Krasselt

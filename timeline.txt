@@ -58,3 +58,4 @@
 2001-06-05T12:00:00: 🏠 Started living at the apartment in Logan Square
 2001-07-24T12:00:00: Purchased my first server (A firesale VALinux 2U server)
 2001-08-02T12:00:00: Hosted my first colocated server in a data center at OAR.net
+2001-09-01T12:00:00: 🏆 Net Vision Honorary Mention @ PRIX ARS ELECTRONICA

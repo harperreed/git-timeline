@@ -11,3 +11,4 @@
 1983-09-01T12:00:00: 🏠 Started living at the house on 27th ave in Greeley, CO
 1984-01-18T12:00:00: 🔥 House caught on fire and burnt a bunch. LEGOs survived
 1984-04-01T12:00:00: 🏠 Started living at the house on 11th st in Greeley, CO
+1984-06-01T12:00:00: Learned to code LOGO on an Apple II

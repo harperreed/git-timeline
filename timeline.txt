@@ -16,3 +16,4 @@
 1985-08-01T12:00:00: 🎒 Started going to Shawsheen Elementary School
 1986-05-01T12:00:00: Accidently got Killers by Iron Maiden. Changed everything.
 1986-08-01T12:00:00: 🎒 Started going to Cameron Elementary School
+1987-06-01T12:00:00: Programmed BASIC based on code from the **321 Contact** magazine

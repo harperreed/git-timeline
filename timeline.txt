@@ -60,3 +60,4 @@
 2001-08-02T12:00:00: Hosted my first colocated server in a data center at OAR.net
 2001-09-01T12:00:00: 🏆 Net Vision Honorary Mention @ PRIX ARS ELECTRONICA
 2001-09-01T12:00:00: Launched Audreyhacking.com to help hack the 3COM Audrey.
+2001-10-01T12:00:00: Sprint launches Samsung A500 and I launch a500hacking.com

@@ -30,3 +30,4 @@
 1992-02-06T12:00:00: Saw Metallica for the first time.
 1992-09-01T12:00:00: Ran up my first huge phone bill dialing into BBSes around the country. [&TOTSE](https://en.wikipedia.org/wiki/TOTSE) forever
 1992-10-21T12:00:00: Saw Public Enemy open for U2.
+1993-04-01T12:00:00: 🐧 Installed Linux for the first time: Yggdrasil. Linux changed everything.

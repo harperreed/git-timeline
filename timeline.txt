@@ -13,3 +13,4 @@
 1984-04-01T12:00:00: 🏠 Started living at the house on 11th st in Greeley, CO
 1984-06-01T12:00:00: Learned to code LOGO on an Apple II
 1985-04-01T12:00:00: 🖥️ Family got a Apple IIc. My brother and I set it up.
+1985-08-01T12:00:00: 🎒 Started going to Shawsheen Elementary School

@@ -51,3 +51,4 @@
 1998-03-21T12:00:00: 🎂 Turned 20
 1998-09-11T12:00:00: 🎪 Opened for [Incubus](https://en.wikipedia.org/wiki/Incubus_(band)) as a juggler
 2000-04-01T12:00:00: 🎪 Opened for [Sir Mix-A-Lot](https://en.wikipedia.org/wiki/Sir_Mix-a-Lot) as a juggler
+2000-05-01T12:00:00: 👨‍💻 Started an internship @ MSI in Cedar Rapids, IA

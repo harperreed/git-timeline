@@ -84,3 +84,4 @@
 2008-04-17T12:00:00: App Engine launched - learned python and launched Excla.im, Awesome Updater, and Chicago Alerts
 2008-08-01T12:00:00: 🏠 Started living at the apartment in North Center
 2008-09-12T12:00:00: Received a photo credit in Metallica's Death Magnetic album. It should have gone to [Derek Brooks](https://derek.broox.com/photos/metallica-at-the-iowa-speedway/).
+2008-10-06T12:00:00: Built Unofficial Transit API for Chicago Transit Authority

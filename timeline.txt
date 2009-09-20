@@ -86,3 +86,4 @@
 2008-09-12T12:00:00: Received a photo credit in Metallica's Death Magnetic album. It should have gone to [Derek Brooks](https://derek.broox.com/photos/metallica-at-the-iowa-speedway/).
 2008-10-06T12:00:00: Built Unofficial Transit API for Chicago Transit Authority
 2009-07-01T12:00:00: Built CityPayments.org with Daniel X Oneil
+2009-09-20T12:00:00: Left Threadless to pursue my dreams

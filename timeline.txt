@@ -105,3 +105,4 @@
 2013-04-01T12:00:00: 🏆 Breakout of the Year @ Webby's
 2013-04-20T12:00:00: Launched FriendFracker with Rafeal Lozano-Hemmer at Seven on Seven.
 2013-05-01T12:00:00: Installed ant miners in the Modest office
+2013-06-01T12:00:00: 🏆 CTO of the Year @ Moxie Award

@@ -117,3 +117,4 @@
 2014-10-18T12:00:00: 🏆 Cornell College Young Alumni Achievement Award
 2014-10-22T12:00:00: First time visiting South America (Santiago, Chile). Fifth continent outside of U.S. I visited.
 2015-07-09T12:00:00: Was [awarded 4 patents](https://patents.google.com/?inventor=Harper+Reed) for work done on Modest, Inc
+2015-08-19T12:00:00: Sold Modest, Inc to PayPal

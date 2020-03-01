@@ -142,3 +142,4 @@
 2019-10-22T12:00:00: Joined the RAND Pardee School's Tech & Narrative Lab advisory group
 2019-12-15T12:00:00: Reclaimed modest.com and started using harper@modest.com for my email again
 2020-02-01T12:00:00: Started watching covid
+2020-03-01T12:00:00: Started doing COVID-19 work full-time

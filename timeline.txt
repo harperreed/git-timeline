@@ -146,3 +146,4 @@
 2020-04-05T12:00:00: Launched zooooom.us - a screensaver for our anxious times
 2020-05-27T12:00:00: Found out I was a Jamstack Pioneer based on our work at Obama for America
 2020-09-01T12:00:00: 🚀 \"Started\" General Galactic Corporation
+2020-09-21T12:00:00: Wrote up all my time doing covid work over the first 3/4 of 2020

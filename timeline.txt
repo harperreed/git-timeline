@@ -151,3 +151,4 @@
 2020-10-01T12:00:00: 🚴 My brother convinced me to get a peloton and start riding. Fun!
 2021-01-29T12:00:00: Bought my first NFT
 2021-03-21T12:00:00: Launched fake.sale, my first NFT project
+2021-04-01T12:00:00: DDove deep into web3.

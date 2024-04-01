@@ -174,3 +174,4 @@
 2023-10-21T12:00:00: 🧑‍💻 Started hacking on some AI stuff
 2024-02-01T12:00:00: 🏋️‍♂️ Started working with a personal trainer, again: Krys
 2024-02-21T12:00:00: 🦾 Started using AI to aid my coding
+2024-04-01T12:00:00: 💸 Invested in some local GPUs

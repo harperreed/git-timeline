@@ -180,3 +180,4 @@
 2024-08-01T12:00:00: 💾 Built some very bespoke models for 2389
 2024-09-21T12:00:00: 🤖 Became an AI agent
 2024-10-01T12:00:00: 🏃 Started running for cardio health
+2024-11-01T12:00:00: Kickstarted my blog again. This time with notes, links, and long form
